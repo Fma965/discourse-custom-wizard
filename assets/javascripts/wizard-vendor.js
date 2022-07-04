@@ -2,7 +2,6 @@
 
 //= require legacy/template_include.js
 //= require legacy/uppy.js
-//= require bootstrap-modal.js
 //= require bootbox.js
 //= require legacy/virtual-dom
 //= require legacy/virtual-dom-amd
